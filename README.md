@@ -6,7 +6,7 @@
 ## Deliverable 2: Transform and clean data
 [Extract-Transform_final_code](https://github.com/BerawalaY3351/Crowdfunding-ETL/blob/main/Extract-Transform_final_code.ipynb)
 
-#Deliverable 3: Create an ERD and Table Schema, then Load Data
+## Deliverable 3: Create an ERD and Table Schema, then Load Data
 [Crowdfunding_db_relationship.png](https://github.com/BerawalaY3351/Crowdfunding-ETL/blob/main/crowdfunding_db_relationships.png)
 [crowdfunding_db_schema.sql](https://github.com/BerawalaY3351/Crowdfunding-ETL/blob/main/crowdfunding_db_schema.sql)
 
